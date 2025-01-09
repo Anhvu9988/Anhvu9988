@@ -5,7 +5,7 @@ I am a passionate programming student. I come from Vietnam. I know C++, Html, Cs
 - 📫 How to reach me: anhvu07062009@gmail.com.
 - 🤔 I want to create my own game.
 - 👩‍💻 I want a team to support me in my projects.
-- 💬 Ask me about C++, Python, JavaScript,....
+- 💬 Ask me about C++.
 - 🧡 My hobbies are: anime, soccer, programming ,...
 ## My Skills
 - **Languages**: Python, JavaScript, C++, Html, Css.
